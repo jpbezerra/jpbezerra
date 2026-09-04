@@ -118,7 +118,7 @@ Currently a Computer Science student at [CIn – UFPE](https://portal.cin.ufpe.b
 | Project | Description | Stack |
 |---|---|---|
 | [**EyeMouse Extension**](https://github.com/jpbezerra/eyemouse-extension) | Chrome extension enabling eye-tracking cursor control with on-device AI, for accessibility use cases | JavaScript, Computer Vision |
-| [**PRODARTE**](https://github.com/jpbezerra/IF1008_PRODART) | Full-stack system built for the Recife City Hall  group project | Java, Spring Boot, React, PostgreSQL |
+| [**PRODARTE**](https://github.com/jpbezerra/IF1008_PRODART) | Full-stack system built for the Recife City Hall — group project | Java, Spring Boot, React, PostgreSQL |
 | [**Fraud Anomaly Detection**](https://github.com/jpbezerra/projetoML) | Compared Isolation Forest, LOF, Autoencoder, and Beta-VAE for credit card fraud detection under extreme class imbalance | Python, TensorFlow, scikit-learn |
 | [**RocketLabDados**](https://github.com/jpbezerra/RocketLabDados-2025.2) | Data pipeline built with PySpark and medallion architecture | PySpark, Databricks |
 | [**Nearby**](https://github.com/jpbezerra/nearby) | Mobile platform connecting users to local markets and services | React Native, Node.js, Prisma |
@@ -131,21 +131,21 @@ Currently a Computer Science student at [CIn – UFPE](https://portal.cin.ufpe.b
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jpbezerra&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jpbezerra&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F" />
-  <img alt="João Pedro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jpbezerra&show_icons=true&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=jpbezerra&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=jpbezerra&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F" />
+  <img alt="João Pedro's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jpbezerra&show_icons=true&hide_border=true" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbezerra&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbezerra&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbezerra&layout=compact&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpbezerra&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpbezerra&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F" />
+  <img alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpbezerra&layout=compact&hide_border=true" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jpbezerra&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jpbezerra&theme=default&hide_border=true&background=FFFFFF&stroke=0969DA&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jpbezerra" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jpbezerra&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=jpbezerra&theme=default&hide_border=true&background=FFFFFF&stroke=0969DA&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=jpbezerra" />
 </picture>
 
 </div>
@@ -179,7 +179,7 @@ Atualmente cursando Ciência da Computação no [CIn – UFPE](https://portal.ci
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**EyeMouse Extension**](https://github.com/jpbezerra/eyemouse-extension) | Extensão Chrome que permite controlar o cursor por rastreamento ocular com IA on-device, para acessibilidade | JavaScript, Visão Computacional |
-| [**PRODARTE**](https://github.com/jpbezerra/IF1008_PRODART) | Sistema full-stack desenvolvido para a Prefeitura do Recife, projeto em grupo | Java, Spring Boot, React, PostgreSQL |
+| [**PRODARTE**](https://github.com/jpbezerra/IF1008_PRODART) | Sistema full-stack desenvolvido para a Prefeitura do Recife — projeto em grupo | Java, Spring Boot, React, PostgreSQL |
 | [**Detecção de Anomalias em Fraudes**](https://github.com/jpbezerra/projetoML) | Comparação entre Isolation Forest, LOF, Autoencoder e Beta-VAE para detecção de fraudes sob desbalanceamento extremo | Python, TensorFlow, scikit-learn |
 | [**RocketLabDados**](https://github.com/jpbezerra/RocketLabDados-2025.2) | Pipeline de dados construído com PySpark e arquitetura medalhão | PySpark, Databricks |
 | [**Nearby**](https://github.com/jpbezerra/nearby) | Plataforma móvel que conecta usuários a mercados e serviços locais | React Native, Node.js, Prisma |
