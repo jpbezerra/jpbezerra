@@ -2,7 +2,7 @@
 
 # Hi, I'm João Pedro 👋
 
-### Data Engineer building data & AI infrastructure — pipelines, cloud platforms, and multi-agent systems
+### Data Engineer building data & AI infrastructure: pipelines, cloud platforms, and multi-agent systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-bezerra/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpbezerra.work@gmail.com)
@@ -15,7 +15,7 @@
 
 ## 🧭 About
 
-I work with **Data Engineering**, **Cloud Infrastructure**, and **AI Engineering** — designing ETL pipelines, data warehouses, and multi-agent systems that turn raw data into decisions. Alongside the technical work, I've led data teams and driven strategy as a data lead, combining hands-on engineering with team leadership and technical management.
+I work with **Data Engineering**, **Cloud Infrastructure**, and **AI Engineering**, designing ETL pipelines, data warehouses, and multi-agent systems that turn raw data into decisions. Alongside the technical work, I've led data teams and driven strategy as a data lead, combining hands-on engineering with team leadership and technical management.
 
 Currently a Computer Science student at [CIn – UFPE](https://portal.cin.ufpe.br), one of the top CS programs in Latin America.
 
@@ -118,7 +118,7 @@ Currently a Computer Science student at [CIn – UFPE](https://portal.cin.ufpe.b
 | Project | Description | Stack |
 |---|---|---|
 | [**EyeMouse Extension**](https://github.com/jpbezerra/eyemouse-extension) | Chrome extension enabling eye-tracking cursor control with on-device AI, for accessibility use cases | JavaScript, Computer Vision |
-| [**PRODARTE**](https://github.com/jpbezerra/IF1008_PRODART) | Full-stack system built for the Recife City Hall — group project | Java, Spring Boot, React, PostgreSQL |
+| [**PRODARTE**](https://github.com/jpbezerra/IF1008_PRODART) | Full-stack system built for the Recife City Hall  group project | Java, Spring Boot, React, PostgreSQL |
 | [**Fraud Anomaly Detection**](https://github.com/jpbezerra/projetoML) | Compared Isolation Forest, LOF, Autoencoder, and Beta-VAE for credit card fraud detection under extreme class imbalance | Python, TensorFlow, scikit-learn |
 | [**RocketLabDados**](https://github.com/jpbezerra/RocketLabDados-2025.2) | Data pipeline built with PySpark and medallion architecture | PySpark, Databricks |
 | [**Nearby**](https://github.com/jpbezerra/nearby) | Mobile platform connecting users to local markets and services | React Native, Node.js, Prisma |
@@ -164,7 +164,7 @@ Currently a Computer Science student at [CIn – UFPE](https://portal.cin.ufpe.b
 
 ### 🧭 Sobre
 
-Trabalho com **Engenharia de Dados**, **Infraestrutura Cloud** e **Engenharia de IA** — desenvolvendo pipelines de ETL, data warehouses e sistemas multi-agente que transformam dados brutos em decisões. Além da parte técnica, já liderei times de dados e conduzi estratégia como líder de dados, combinando engenharia prática com liderança técnica e gestão de pessoas.
+Trabalho com **Engenharia de Dados**, **Infraestrutura Cloud** e **Engenharia de IA**, desenvolvendo pipelines de ETL, data warehouses e sistemas multi-agente que transformam dados brutos em decisões. Além da parte técnica, já liderei times de dados e conduzi estratégia como líder de dados, combinando engenharia prática com liderança técnica e gestão de pessoas.
 
 Atualmente cursando Ciência da Computação no [CIn – UFPE](https://portal.cin.ufpe.br), um dos centros de CC mais prestigiados da América Latina.
 
@@ -179,7 +179,7 @@ Atualmente cursando Ciência da Computação no [CIn – UFPE](https://portal.ci
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**EyeMouse Extension**](https://github.com/jpbezerra/eyemouse-extension) | Extensão Chrome que permite controlar o cursor por rastreamento ocular com IA on-device, para acessibilidade | JavaScript, Visão Computacional |
-| [**PRODARTE**](https://github.com/jpbezerra/IF1008_PRODART) | Sistema full-stack desenvolvido para a Prefeitura do Recife — projeto em grupo | Java, Spring Boot, React, PostgreSQL |
+| [**PRODARTE**](https://github.com/jpbezerra/IF1008_PRODART) | Sistema full-stack desenvolvido para a Prefeitura do Recife, projeto em grupo | Java, Spring Boot, React, PostgreSQL |
 | [**Detecção de Anomalias em Fraudes**](https://github.com/jpbezerra/projetoML) | Comparação entre Isolation Forest, LOF, Autoencoder e Beta-VAE para detecção de fraudes sob desbalanceamento extremo | Python, TensorFlow, scikit-learn |
 | [**RocketLabDados**](https://github.com/jpbezerra/RocketLabDados-2025.2) | Pipeline de dados construído com PySpark e arquitetura medalhão | PySpark, Databricks |
 | [**Nearby**](https://github.com/jpbezerra/nearby) | Plataforma móvel que conecta usuários a mercados e serviços locais | React Native, Node.js, Prisma |
